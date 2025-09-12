@@ -36,7 +36,7 @@ Este es una implementación de uno de los algoritmos más antiguos y conocidos p
 
 ## ¿Cómo ejecutar el código?
 ### Prerrequisitos
-- Java instalado el JDK de Java.
+- Tener instalado el JDK de Java.
 
 ### Instrucciones de Ejecución
 
