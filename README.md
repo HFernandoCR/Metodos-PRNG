@@ -21,7 +21,7 @@ Este método genera números pseudoaleatorios dentro de un rango especifico por 
 2. Se basa en fórmulas matemáticas diseñadas por el equipo para procesar estos valores y generar un número.
 3. Ajusta dinámicamente el rango de dígitos para asegurar que el número final siempre se encuentre dentro de los límites definidos por el usuario.
 
-## Algoritmo LCG (`LCGSimple.java``)
+## Algoritmo LCG (`LCGSimple.java`)
 Este es una implementación de uno de los algoritmos más antiguos y conocidos para la generación de secuencias pseudoaleatorias.
 
 **Funcionamiento:**
