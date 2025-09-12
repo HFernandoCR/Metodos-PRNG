@@ -40,7 +40,7 @@ Este es una implementación de uno de los algoritmos más antiguos y conocidos p
 
 ### Instrucciones de Ejecución
 
-1. Clonar o descargar el repositorio.
+1. Clonar y descargar el repositorio.
 2. Abrir una terminal en el directorio donde se encuentren los archivos.
 3. Compilar los archivos.
    ```bash
